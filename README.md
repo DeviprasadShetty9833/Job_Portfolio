@@ -28,7 +28,7 @@ Job Hiring
    - RHS Developer img
    - Trusted by 1000+ Companies scrolling right to left.
    - Browse Job Category - "Explore diverse Job opportunities tailored to your skills. Start your career journey today!"
-   - - Finance, Human Resource, Digital Marketing, Web Developer,  Arts & Design cardssedd
+   - - Finance, Human Resource, Digital Marketing, Web Developer,  Arts & Design cards
    - How it works - "Effortlessly navigate through the processand land your dream job."
    - - Build your Resume - "Create a standout resume with your skills."
      - Apply for Job - "Find and apply for jobs that match your skills."
