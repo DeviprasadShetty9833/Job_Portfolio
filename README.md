@@ -2,7 +2,7 @@
 
 # Pages
 
----< Not Logged in >---
+===( Not Logged in )===
 
 1. Landing Page
 2. Home Page
