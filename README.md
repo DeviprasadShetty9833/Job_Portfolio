@@ -10,6 +10,7 @@
 4. Post Job
 5. Posted Jobs
 6. Job History
+7. Login 
 
 ===( Login as )===
 
@@ -20,6 +21,7 @@ Job Hiring
 # Elements
 
 1. Landing Page
+   - Header(Logo , Find Jobs, Find Talent, Post Job, Posted Jobs, Job History, Login buttons)
    - Find your Dream Job with us, "Good Life begins with a good company. Start explore thousands of jobs in one place."
    - Job Title, Job Type Search buttons.
    - RHS Developer img
