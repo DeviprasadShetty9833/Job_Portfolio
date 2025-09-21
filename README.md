@@ -1,17 +1,17 @@
-# Job_Portfolio
+# Job_Hook
 
 # Pages ✅❌
 
 ===( Not Logged in )===
 
 1. Landing Page
-2. Find Jobs
-3. Find Talent
-4. Post Job
-5. Posted Jobs
-6. Job History
+2. Find_Jobs
+3. Find_Talent
+4. Post_Job
+5. Posted_Jobs
+6. Job_History
 7. Login
-8. Create Account
+8. Create_Account
 
 ===( Login as )===
 
@@ -36,3 +36,7 @@ Job Hiring
    - What User says about us? - Review Cards with ⭐ ratings
    - Never want to miss any Job News? Email box, Subscribe button
    - Footer
+  
+8. Create_Account
+   - LHS : JobHook - "Find the job made for you"
+   - Full name, Email, Password, Confirm Password, You are? (Applicant/Employer), Sign up button, "Have an account?" Login link
