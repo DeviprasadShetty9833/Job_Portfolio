@@ -9,6 +9,12 @@
 3. Find Jobs
 4. Posted Jobs
 
+===( Not Logged in )===
+
+Login as Job Seeker
+
+Login as Job Hiring
+
 # Elements
 
 1. Landing Page
