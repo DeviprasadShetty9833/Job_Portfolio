@@ -11,11 +11,11 @@
 5. Posted Jobs
 6. Job History
 
-===( Not Logged in )===
+===( Login as )===
 
-Login as Job Seeker
+Job Seeker
 
-Login as Job Hiring
+Job Hiring
 
 # Elements
 
