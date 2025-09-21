@@ -36,7 +36,10 @@ Job Hiring
    - What User says about us? - Review Cards with ⭐ ratings
    - Never want to miss any Job News? Email box, Subscribe button
    - Footer
-  
+
+7. Login
+   - Email, Password, Login button, "Don't have an account?" SignUp link, Forgot Password link
+     
 8. Create_Account
    - LHS : JobHook - "Find the job made for you"
    - Full name, Email, Password, Confirm Password, You are? (Applicant/Employer), Sign up button, "Have an account?" Login link
