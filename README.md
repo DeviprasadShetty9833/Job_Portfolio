@@ -2,8 +2,6 @@
 
 # Pages ✅❌
 
-===( Not Logged in )===
-
 1. Landing Page
 2. Find_Jobs
 3. Find_Talent
@@ -13,16 +11,20 @@
 7. Login
 8. Create_Account
 
+===( Not Logged in )===
+
+- Header(Logo , Find Jobs, Find Talent, Post Job, Posted Jobs, Job History, Login buttons) - All the buttons should direct to Login Page.
+
 ===( Login as )===
 
-Job Seeker
+Applicant
+- Header(Logo , Find Jobs, Find Talent, Posted Jobs, Job History, Profile name & icon, Notification buttons)
 
-Job Hiring
+Employer
 
 # Elements
 
 1. Landing Page
-   - Header(Logo , Find Jobs, Find Talent, Post Job, Posted Jobs, Job History, Login buttons) - All the buttons sould direct to Login Page.
    - Find your Dream Job with us, "Good Life begins with a good company. Start explore thousands of jobs in one place."
    - Job Title, Job Type Search buttons.
    - RHS Developer img
