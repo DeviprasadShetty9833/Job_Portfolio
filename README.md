@@ -1,13 +1,15 @@
 # Job_Portfolio
 
-# Pages
+# Pages ✅❌
 
 ===( Not Logged in )===
 
 1. Landing Page
-2. Home Page
-3. Find Jobs
-4. Posted Jobs
+2. Find Jobs
+3. Find Talent
+4. Post Job
+5. Posted Jobs
+6. Job History
 
 ===( Not Logged in )===
 
