@@ -39,6 +39,7 @@ Job Hiring
 
 7. Login
    - Email, Password, Login button, "Don't have an account?" SignUp link, Forgot Password link
+   - RHS : JobHook - "Find the job made for you"
      
 8. Create_Account
    - LHS : JobHook - "Find the job made for you"
