@@ -1,10 +1,13 @@
 # Job_Portfolio
 
+# Pages
+
 1. Landing Page
 2. Home Page
 3. Find Jobs
 4. Posted Jobs
 
+# Elements
 
 1. Landing Page
    - "Find your Dream Job with us", "Good Life begins with a good company. Start explore thousands of jobs in one place."
