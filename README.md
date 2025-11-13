@@ -2,7 +2,7 @@
 
 # Pages ✅❌
 
-1. Landing Page
+1. Landing_Page
 2. Find_Jobs
 3. Find_Talent
 4. Post_Job
@@ -24,7 +24,7 @@ Employer
 
 # Elements
 
-1. Landing Page
+1. Landing_Page
    - Find your Dream Job with us, "Good Life begins with a good company. Start explore thousands of jobs in one place."
    - Job Title, Job Type Search buttons.
    - RHS Developer img
